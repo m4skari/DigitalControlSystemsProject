@@ -1,2 +1,2 @@
 # DigitalControlSystemsProject
-this project is about maglev system,linearization and disign discrete and continious controllers 
+this project is about maglev system,linearization and design discrete and continious controllers 
